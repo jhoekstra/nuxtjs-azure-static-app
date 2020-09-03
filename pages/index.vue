@@ -25,6 +25,9 @@
               <NuxtLink to="/spa-fallback" >Spa Fallback page</NuxtLink>
             </li>
             <li>
+              <NuxtLink to="/anotherpage" >Custom another page</NuxtLink>
+            </li>
+            <li>
               <NuxtLink to="/404" >Custom error page</NuxtLink>
             </li>
           </ul>
